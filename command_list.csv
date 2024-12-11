@@ -1,0 +1,267 @@
+    1  /Volumes/CorelDRAW\ Graphics\ Suite\ 2021\ -\ Corporate\ \ v23.5.0.506/Open\ Gatekeeper\ friendly ; exit;
+    2  /tmp/tnt30418/mount/Extra/CorelDRAW\ Cleaner\ by\ TNT ; exit;
+    3  /tmp/tnt30418/mount/Extra/CorelDRAW\ Cleaner\ by\ TNT ; exit;
+    4  /tmp/tnt30418/mount/Extra/rhash ; exit;
+    5  brew install --cask dbeaver-community
+    6  brew install --cask dbeaver-community
+    7  brew install --cask dbeaver-community
+    8  --cask dbeaver-community
+    9  Documents
+   10  git -version
+   11  git --version
+   12  nan
+   13  man
+   14  man ls
+   15  q
+   16  man ls
+   17  man ls
+   18  ls
+   19  cls
+   20  clear
+   21  ls
+   22  cd
+   23  cd desktop
+   24  ls
+   25  cd ..
+   26  ls
+   27  cd desktop
+   28  cd ~
+   29  cd desktop
+   30  \t\t\tls
+   31  \tcd
+   32  св Applications/cd Desktop
+   33  ls
+   34  clear
+   35  ls
+   36  cd Dropbox
+   37  cd Desktop
+   38  pwd
+   39  cd Desktop
+   40  pwd
+   41  cd Desktop
+   42  cd Desktop
+   43  \t\t\tls
+   44  clear
+   45  cd Desktop
+   46  cd Desktop
+   47  cd Desktop
+   48  ls
+   49  clear
+   50  ls Desktop
+   51  cd
+   52  ls
+   53  ls desktop
+   54  pwd
+   55  cd Documents
+   56  pwd
+   57  cd \ \ Собеседованиclear
+   58  cd Desktop
+   59  ls desktop
+   60  ls
+   61  clear
+   62  cd
+   63  ls
+   64  cd Desktop
+   65  cd ..
+   66  mkdear Llesson
+   67  mkdir LEsson
+   68  ls
+   69  mkdir Lesson2
+   70  ls
+   71  clear
+   72  touch empty.txt
+   73  ls
+   74  cd Desktop
+   75  touch empty.txt
+   76  mkdir LEsson
+   77  mkdir Lesson2
+   78  vim empty.txt
+   79  vim empty.txt
+   80  nano empty.txt
+   81  nano empty.txt
+   82  cat emty.txt
+   83  nano empty.txt
+   84  cat empry.txt
+   85  cat empty.txt
+   86  cp empty.txt
+   87  pwd
+   88  cp /Users/olganesterenko/Desktopempty.txt
+   89  cp /Users/olganesterenko/Desktop/empty.txt /Users/olganesterenko/Downloads
+   90  mv /Users/olganesterenko/Desktop/empty.txt /Users/olganesterenko/Downloads
+   91  cp/Users/olganesterenko/Downloads/empty.txt /Users/olganesterenko/Desktop
+   92  cp/Users/olganesterenko/Downloads/empty.txt /Users/olganesterenko/Desktop/empty.txt
+   93  cd Downloads
+   94  ls
+   95  cd Downloads
+   96  cd ..
+   97  ls
+   98  cd Downloads
+   99  cp /Users/olganesterenko/Downloads/empty.txt /Users/olganesterenko/Desktop/empty.txt
+  100  ..
+  101  ..
+  102  cd Downloads
+  103  ls
+  104  ..
+  105  ls
+  106  cp Desktop
+  107  cd Desktop
+  108  ls
+  109  pwd
+  110  ..
+  111  ...
+  112  ..
+  113  cd Desktop
+  114  clear
+  115  ls
+  116  ls Desktop
+  117  cd Desktop
+  118  cd
+  119  cd Desktop
+  120  cp/Users/olganesterenko/Desktop/empty.txt /Users/olganesterenko/Downloads/3empty.txt
+  121  cp/Users/olganesterenko/Desktop/empty.txt /Users/olganesterenko/Desktop/3empty.txt
+  122  cp /Users/olganesterenko/Desktop/empty.txt /Users/olganesterenko/Desktop/3empty.txt
+  123  rm 3empty.txt
+  124  rm empty.txt
+  125  ping
+  126  ping google.com
+  127  date
+  128  system_profiler
+  129  clear
+  130  df -h
+  131  ifconfig
+  132  clear
+  133  whoami
+  134  cd Desktop
+  135  touch test.txt
+  136  chmod 777 test.txt
+  137  clear
+  138  cd git
+  139  cd Desktop
+  140  cd Git
+  141  git confif --global "Olha Basko"
+  142  git confif --user.name "Olha Basko"
+  143  git config --user.name "Olha Basko"
+  144  git config --global user.name "Olha Basko"
+  145  git config --global user.email olya.nester@gmail.com
+  146  git clone https://github.com/OlyaQA-web/Lesson3.1.git
+  147  git status
+  148  cd Lesson3.1
+  149  git status
+  150  touch New.txt
+  151  git status
+  152  git addNew.txt
+  153  git add NEw.txt
+  154  git add New.txt
+  155  git status
+  156  git commit -m "New file craeted"
+  157  git status
+  158  git log
+  159  git branch
+  160  git checkout -b new_branch 
+  161  git branch
+  162  git checkout main
+  163  git checkout main
+  164  git branch
+  165  git checkout new branch
+  166  git checkout new_branch
+  167  git branch
+  168  nano New.txt
+  169  git status
+  170  git commit -m "New_modified"
+  171  git status
+  172  git branch
+  173  git checkout main
+  174  git merge new_branch
+  175  git branch
+  176  git status
+  177  git commit
+  178  git checkout new_branch
+  179  git merge main
+  180  git status
+  181  git commit
+  182  git checkout main
+  183  git satus
+  184  git status
+  185  git commit -m "New_modified"
+  186  git add New.txt 
+  187  git status
+  188  git commit -m "New_modified"
+  189  git push
+  190  git push
+  191  git push
+  192  git push
+  193  clean
+  194  clear
+  195  cd Git
+  196  ls
+  197  ..
+  198  cd
+  199  clear
+  200  ls
+  201  cd Desktop
+  202  ls
+  203  cd Git
+  204  -c && rm ~/.bash_history
+  205  history -c && rm ~/.bash_history
+  206  git clone https://github.com/OlyaQA-web/HW_10.git
+  207  cd HW_10
+  208  touch text_ignore.txt
+  209  git status
+  210  nano .gitignore
+  211  git add .gitignore
+  212  git status
+  213  cd Git
+  214  cd
+  215  cd Git
+  216  ls
+  217  cd Desktop
+  218  cd Git
+  219  history -c && rm ~/.bash_history
+  220  history -c && rm ~/.bash_history\nhistory: bad option: -c\n
+  221  cd Git
+  222  cd Desktop
+  223  cd Git
+  224  history -c && rm ~/.bash_history
+  225  git config --global user.name "Olha Basko"
+  226  git config --global user.email olya.nester@gmail.com
+  227  git clone https://github.com/OlyaQA-web/HW_10.git
+  228  cd HW_10
+  229  cd Desktop
+  230  cd Git
+  231  history -c && rm ~/.bash_history
+  232  history --c && rm ~/.bash_history\nhistory: bad option: -c\n
+  233  cd Desktop
+  234  cd Git
+  235  history -c && rm ~/.bash_history
+  236  git config --global user.name "Olha Basko"
+  237  git config --global user.email olya.nester@gmail.com
+  238  git cline https://github.com/OlyaQA-web/HW_10.git
+  239  git cloine https://github.com/OlyaQA-web/HW_10.git
+  240  git clone https://github.com/OlyaQA-web/HW_10.git
+  241  cd Desktop
+  242  cd Git
+  243  history -c && rm ~/.bash_history
+  244  git config --global user.name "Olha Basko"
+  245  git config --global user.email olya.nester@gmail.com
+  246  git clone https://github.com/OlyaQA-web/HW_10.git
+  247  cd HW_10
+  248  touch text_ignore.txt
+  249  nano .gitignore
+  250  git status
+  251  git add .gitignore
+  252  git add text_ignore.txt
+  253  git commit -m "New file created"
+  254  touch main_test.txt
+  255  git add main_test.txt
+  256  git commit -m "New file main_test created"
+  257  git checkout -b develop
+  258  touch develop_test.txt
+  259  git add develop_test.txt
+  260  git commit -m "New file develop_test created"
+  261  nano develop_test.txt
+  262  git status
+  263  git add develop_test.txt
+  264  git commit -m "New file develop_test1 created"
+  265  git checkout main
+  266  git merge develop
+  267  git log
